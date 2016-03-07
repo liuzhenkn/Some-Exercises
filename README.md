@@ -1,3 +1,3 @@
 # Some-Exercises
 
-There are some exercises about Javascript.
+There are some exercises.
